@@ -7,11 +7,11 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Hoomaan Maskan"
+title                    : "Hoomaan's homepage"
 title_separator          : "-"
 name                     : &name "Hoomaan"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://hoomyhh.github.io/hoomaanmaskan.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Hoomaan"
+  name             : "Hoomaan Maskan"
   avatar           : "profile.png"
   bio              : "PhD student in Mathematical Statistics"
   location         : "Umeå, Sweden"
-  employer         :
+  employer         : "Wallenberg AI Autonomous Systems & Software" 
   pubmed           : 
   googlescholar    : "https://scholar.google.com.au/citations?user=uITcee4AAAAJ&hl=en"
-  email            :
+  email            :  "hoomyh.hh@gmail.com"
   researchgate     :  #https://www.researchgate.net/profile/Hoomaan-Maskan"
   uri              :
   bitbucket        :
