@@ -1,15 +1,31 @@
 ---
-title: "Paper Title Number 2"
+title: "Sparse Signal Reconstruction using Blind Super-resolution with Arbitrary Sampling"
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+excerpt: 'This paper is about sparse blind deconvolution recovery when sampling instances are not integers and Fourier basis is not applicable.'
+date: 2020-03-17
+venue: 'IEEE SIGNAL PROCESSING LETTERS, VOL. 27, 2020'
+paperurl: '[http://academicpages.github.io/files/paper2.pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9066889)'
+citation: @article{hezave2020sparse,
+  title={Sparse signal reconstruction using blind super-resolution with arbitrary sampling},
+  author={Hezave, Hoomaan and Javadzadeh, Milad and Kahaei, Mohammad Hossein},
+  journal={IEEE Signal Processing Letters},
+  volume={27},
+  pages={615--619},
+  year={2020},
+  publisher={IEEE}
+}
 ---
-This paper is about the number 2. The number 3 is left for future work.
+This paper is about sparse blind deconvolution recovery when sampling instances are not integers and Fourier basis is not applicable.
 
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
+[Download paper here](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9066889)
 
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
+Recommended citation: @article{hezave2020sparse,
+  title={Sparse signal reconstruction using blind super-resolution with arbitrary sampling},
+  author={Hezave, Hoomaan and Javadzadeh, Milad and Kahaei, Mohammad Hossein},
+  journal={IEEE Signal Processing Letters},
+  volume={27},
+  pages={615--619},
+  year={2020},
+  publisher={IEEE}
+}.
