@@ -1,15 +1,32 @@
 ---
-title: "Paper Title Number 3"
+title: "Super-resolution DOA estimation for wideband signals using non-uniform linear arrays with no focusing matrix"
 collection: publications
 permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+excerpt: 'In this letter, we represent the data model of a wideband DOA estimation problem in a new form. Then, using this model, we propose an atomic norm minimization problem that leads to an accurate wideband DOA estimation method with no need for any focusing matrices. '
+date: 2021-12-30
+venue: 'IEEE Wireless Communications Letters'
+paperurl: '[http://academicpages.github.io/files/paper3.pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9665751)'
+citation: '@ARTICLE{9665751,
+  author={Jirhandeh, Milad Javadzadeh and Hezaveh, Hoomaan and Kahaei, Mohammad Hossein},
+  journal={IEEE Wireless Communications Letters}, 
+  title={Super-Resolution DOA Estimation for Wideband Signals Using Non-Uniform Linear Arrays With No Focusing Matrix}, 
+  year={2022},
+  volume={11},
+  number={3},
+  pages={641-644},
+  doi={10.1109/LWC.2021.3139568}}'
 ---
-This paper is about the number 3. The number 4 is left for future work.
+In this letter, we represent the data model of a wideband DOA estimation problem in a new form. Then, using this model, we propose an atomic norm minimization problem that leads to an accurate wideband DOA estimation method with no need for any focusing matrices. 
 
-[Download paper here](http://academicpages.github.io/files/paper3.pdf)
+[Download paper here]([http://academicpages.github.io/files/paper3.pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9665751))
 
-Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
+Recommended citation: 
+@ARTICLE{9665751,
+  author={Jirhandeh, Milad Javadzadeh and Hezaveh, Hoomaan and Kahaei, Mohammad Hossein},
+  journal={IEEE Wireless Communications Letters}, 
+  title={Super-Resolution DOA Estimation for Wideband Signals Using Non-Uniform Linear Arrays With No Focusing Matrix}, 
+  year={2022},
+  volume={11},
+  number={3},
+  pages={641-644},
+  doi={10.1109/LWC.2021.3139568}}.
