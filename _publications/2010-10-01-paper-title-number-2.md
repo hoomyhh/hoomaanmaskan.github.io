@@ -5,7 +5,7 @@ permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: 'This paper is about sparse blind deconvolution recovery when sampling instances are not integers and Fourier basis is not applicable.'
 date: 2020-03-17
 venue: 'IEEE SIGNAL PROCESSING LETTERS, VOL. 27, 2020'
-paperurl: '[http://academicpages.github.io/files/paper2.pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9066889)'
+paperurl: 'https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9066889'
 citation: @article{hezave2020sparse,
   title={Sparse signal reconstruction using blind super-resolution with arbitrary sampling},
   author={Hezave, Hoomaan and Javadzadeh, Milad and Kahaei, Mohammad Hossein},
