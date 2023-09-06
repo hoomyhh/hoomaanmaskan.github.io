@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+I am a PhD student in Mathematical Statistics at Umeå University. Having a doctoral program funded by Wallenberg foundation/WASP (Wallenberg, AI Autonomous Systems and software Programming), I have been involved in many practical/theoretical projects during my graduate studies. To name a few, distributed programming, bayesian learning, language models, supervided learning, and reinforcement learning. My recent project, involves using [Probabilistic Circuits](https://proceedings.mlr.press/v115/peharz20a/peharz20a.pdf) (PCs) as generative models. Comming from a signal processing background, my theoretical research interests involve compressed sensing, sampling, inverse problems, accelerated methods in optimization, and difference of convex programming. Currently, I am exploring a subclass of difference of convex optimization algorithms to find connections with constrained optimization algorithms.
 
 A data-driven personal website
 ======
