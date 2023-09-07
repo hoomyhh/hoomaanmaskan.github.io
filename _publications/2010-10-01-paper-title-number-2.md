@@ -20,7 +20,9 @@ This paper is about sparse blind deconvolution recovery when sampling instances 
 
 [Download paper here](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9066889)
 
-Recommended citation: @article{hezave2020sparse,
+**Recommended citation**: 
+
+@article{hezave2020sparse,
   title={Sparse signal reconstruction using blind super-resolution with arbitrary sampling},
   author={Hezave, Hoomaan and Javadzadeh, Milad and Kahaei, Mohammad Hossein},
   journal={IEEE Signal Processing Letters},
