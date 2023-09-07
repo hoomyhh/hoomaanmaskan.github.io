@@ -20,7 +20,8 @@ In this letter, we represent the data model of a wideband DOA estimation problem
 
 [Download paper here]([http://academicpages.github.io/files/paper3.pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9665751))
 
-Recommended citation: 
+**Recommended citation**: 
+
 @ARTICLE{9665751,
   author={Jirhandeh, Milad Javadzadeh and Hezaveh, Hoomaan and Kahaei, Mohammad Hossein},
   journal={IEEE Wireless Communications Letters}, 
