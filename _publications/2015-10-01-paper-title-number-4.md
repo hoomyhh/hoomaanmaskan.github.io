@@ -27,7 +27,7 @@ In this paper, we consider the demixing of sines and spiky noises.
 
 [Download paper here]([http://academicpages.github.io/files/paper3.pdf](https://www.sciencedirect.com/science/article/pii/S0165168422003255))
 
-Recommended citation: 
+**Recommended citation**: 
 
 @article{MASKAN2023108786,
 	abstract = {We address the line spectral estimation problem with multiple measurement corrupted vectors. Such scenarios appear in many practical applications such as radar, optics, and seismic imaging in which the measurements can be modeled as the sum of a spectrally sparse and a block-sparse signal known as outlier. Our aim is to demix the two components and for this purpose, we design a convex problem whose objective function promotes both of the structures. Using the Positive Trigonometric Polynomials (PTP) theory, we reformulate the dual problem as a Semidefinite Program (SDP). Our theoretical results state that for a fixed number of measurements N and constant number of outliers, up to O(N) spectral lines can be recovered using our SDP problem as long as a minimum frequency separation condition is satisfied. Our simulation results also show that increasing the number of samples per measurement vectors reduces the minimum required frequency separation for successful recovery.},
