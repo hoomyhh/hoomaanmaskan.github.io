@@ -21,7 +21,8 @@ This paper is about incorporation of prior knowledge for a more accurate channel
 
 [Download paper here]([http://academicpages.github.io/files/paper1.pdf](https://ietresearch.onlinelibrary.wiley.com/doi/pdfdirect/10.1049/iet-com.2019.0430))
 
-Recommended citation: 
+**Recommended citation**: 
+
 @article{hezaveh2020incorporation,
   title={Incorporation of prior knowledge into sparse time dispersive OFDM channel estimation via weighted atomic norm minimisation},
   author={Hezaveh, Hoomaan and Valiulahi, Iman and Kahaei, Mohammad Hossein},
