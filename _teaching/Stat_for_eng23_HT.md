@@ -1,6 +1,6 @@
 ---
 title: "Statistic for Engineers"
-collection: teaching
+collection: teaching assistant
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
 venue: "MIT Building, Umeå University"
