@@ -2,7 +2,7 @@
 title: "Statistic for Engineers"
 collection: teaching assistant
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
+permalink: /teaching/Stat_for_eng23_HT
 venue: "MIT Building, Umeå University"
 date: Fall, 2023,
 location: "Umeå, Sweden"
