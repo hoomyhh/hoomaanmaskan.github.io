@@ -8,8 +8,7 @@ date: 2023-03-01,
 location: "Umeå, Sweden"
 ---
 
-Course Description
-======
+-----
 
 Together with colleagues in the same situation we will help you to navigate the complex issues that are common among future teachers. 
 The course allows you to put yourself in the role of a teacher by practicing planning and implementing teaching assignments.
