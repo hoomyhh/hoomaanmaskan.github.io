@@ -2,7 +2,7 @@
 title: "New as a Teacher"
 collection: Pedagogical Course
 type: "Pedagogical course"
-permalink: /teaching/2014-spring-teaching-1
+permalink: /teaching/pedagogical_intro
 venue: "UPL, Umeå University"
 date: Spring, 2023,
 location: "Umeå, Sweden"
