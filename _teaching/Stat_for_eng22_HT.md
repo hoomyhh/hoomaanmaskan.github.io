@@ -4,7 +4,7 @@ collection: teaching assistant
 type: "Undergraduate course"
 permalink: /teaching/Stat_for_eng22_HT
 venue: "MIT Building, Umeå University"
-date:2022-09-01,
+date: 2022-09-01,
 location: "Umeå, Sweden"
 ---
 
