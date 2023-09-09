@@ -8,8 +8,7 @@ date: 2023-11-01,
 location: "Umeå, Sweden"
 ---
 
-Course Description
-======
+-----
 
 **Element 1 (6.5 hp): Theory**
 
