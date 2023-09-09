@@ -8,8 +8,7 @@ date: 2021-09-01,
 location: "Umeå, Sweden"
 ---
 
-Course Description
-======
+-----
 
 The terms probability, discrete and continuous random variable, probability function, density function, distribution function, expected value, variance, standard deviation, covariance and correlation are defined. Furthermore, the most common standard distributions in technical contexts are treated with special emphasis on the normal distribution, distributions for linear combinations of independent random variables with and without normal distribution assumption (application of the central limit theorem) and approximations of expected values ​​and variance for non-linear functions of random variables. The concepts of point estimate, expected value accuracy, efficiency, hypothesis, significance level, power, type I and II error, rejection region, p-value, and confidence level are defined.
 
