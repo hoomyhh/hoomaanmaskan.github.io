@@ -1,8 +1,8 @@
 ---
 title: "Transform Methods"
 collection: teaching & teaching assistant
-type: "graduate course"
-permalink: /teaching/2014-spring-teaching-1
+type: "Graduate course"
+permalink: /teaching/Transform Methods
 venue: "MIT Building, Umeå University"
 date: Fall, 2023,
 location: "Umeå, Sweden"
