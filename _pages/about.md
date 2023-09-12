@@ -12,7 +12,7 @@ I am a PhD student in Mathematical Statistics at Umeå University (started Augus
 
 Latest News
 ======
-**[August, 2023]** I had a gereat week at EURopt 2023 Summer school in Budapest. There we had the opportunity of spending a day with Prof. [Russel Luke](https://scholar.google.com/citations?user=Gb9nMYwAAAAJ&hl=en) and Prof. [Coralia Cartis](https://scholar.google.com/citations?user=L5nraqYAAAAJ&hl=en). I also presented my recent research entitled "A Variational Perspective on High-Resolution ODEs" in the [EURopt 2023 workshop](http://www.europt.hu/).
+**[August, 2023]** I had a productive week at EURopt 2023 Summer school in Budapest. There we had the opportunity of spending a day with Prof. [Russel Luke](https://scholar.google.com/citations?user=Gb9nMYwAAAAJ&hl=en) and Prof. [Coralia Cartis](https://scholar.google.com/citations?user=L5nraqYAAAAJ&hl=en). I also presented my recent research entitled "A Variational Perspective on High-Resolution ODEs" in the [EURopt 2023 workshop](http://www.europt.hu/).
 
 ------
 
@@ -24,7 +24,7 @@ Latest News
 
 ------
 
-**[February, 2023]** I was awarded 100,000 SEK from [VetenskapsRådet](https://www.vr.se/) for a research visit to Edinburgh University. There I will be working on the mysterious acceleration phenomenon in first-order methods together with [Konstantinos Zygalakis](https://scholar.google.com/citations?user=XqwQVdEAAAAJ&hl=en).
+**[February, 2023]** I will go on a research visit to Edinburgh University. There I will be working on the mysterious acceleration phenomenon in first-order methods together with [Konstantinos Zygalakis](https://scholar.google.com/citations?user=XqwQVdEAAAAJ&hl=en).
 
 ------
 
