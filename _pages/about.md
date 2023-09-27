@@ -12,6 +12,10 @@ I am a PhD student in Mathematical Statistics at Umeå University (started Augus
 
 Latest News
 ======
+**[September, 2023]** My paper titled: *A Variational Perspective on High-Resolution ODEs* was accepted for publication in **Neurips 2023**. This was a joint work with Konstatinos Zygalakis (Edinburgh University) and Alp Yurtsever (Umeå University).
+
+------
+
 **[August, 2023]** I had a productive week at EURopt 2023 Summer school in Budapest. There we had the opportunity of spending a day with Prof. [Russel Luke](https://scholar.google.com/citations?user=Gb9nMYwAAAAJ&hl=en) and Prof. [Coralia Cartis](https://scholar.google.com/citations?user=L5nraqYAAAAJ&hl=en). I also presented my recent research entitled "A Variational Perspective on High-Resolution ODEs" in the [EURopt 2023 workshop](http://www.europt.hu/).
 
 ------
