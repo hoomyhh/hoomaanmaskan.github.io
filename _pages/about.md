@@ -12,7 +12,23 @@ I am a PhD student in Mathematical Statistics at Umeå University (started Augus
 
 Latest News
 ======
-**[September, 2023]** My paper titled: *A Variational Perspective on High-Resolution ODEs* was accepted for publication in **Neurips 2023**. This was a joint work with Konstatinos Zygalakis (Edinburgh University) and Alp Yurtsever (Umeå University).
+**[January, 2024]** I am delighted to inform that I was selected to serve as a reviewer in **ICML 2024**.
+
+------
+**[December, 2023]** I am thrilled to announce that I was granted travel funds from **Wallenberg AI,Autonomous Systems and Software Program (WASP)** funded by the Knut and Alice Wallenberg Foundation.
+
+------
+**[December, 2023]** I am thrilled to announce that I was granted travel funds from **JC Kempe Memorial Scholarhip Foundation**.
+
+------
+
+**[September, 2023]** I am delighted to inform that I was selected to serve as a reviewer in **ICLR 2024**.
+
+------
+**[September, 2023]** My paper titled: *A Variational Perspective on High-Resolution ODEs* was accepted for publication in **NeurIPS 2023**. This was a joint work with Konstatinos Zygalakis (Edinburgh University) and Alp Yurtsever (Umeå University).
+
+------
+**[August, 2023]** I am delighted to inform that I was selected to serve as a reviewer in **NeurIPS 2023**.
 
 ------
 
