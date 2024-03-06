@@ -12,6 +12,9 @@ I am a PhD student in Mathematical Statistics at Umeå University (started Augus
 
 Latest News
 ======
+**[March, 2024]** I am thrilled to announce that I started an internship program as *Student Researcher* in the *R&D Laboratory* of **Pendulum Systems**.  
+
+------
 **[January, 2024]** I am delighted to inform that I was selected to serve as a reviewer in **ICML 2024**.
 
 ------
