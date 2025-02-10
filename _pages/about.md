@@ -8,10 +8,28 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student in Mathematical Statistics at Umeå University (started August, 2020). Having a doctoral position funded by Wallenberg foundation/WASP (Wallenberg, AI Autonomous Systems and software Programming), I have been involved in many practical/theoretical projects during my graduate studies. To name a few, distributed programming, bayesian learning, language models, supervided learning, and reinforcement learning. My recent project, involves using [Probabilistic Circuits](https://proceedings.mlr.press/v115/peharz20a/peharz20a.pdf) (PCs) as generative models. Comming from a signal processing background, my theoretical research interests involve compressed sensing, sampling, inverse problems, accelerated methods in optimization, and difference of convex programming. Currently, I am exploring a subclass of difference of convex optimization algorithms to find connections with constrained optimization algorithms.
+I am a PhD student in Mathematical Statistics at Umeå University (started August, 2020). Having a doctoral position funded by Wallenberg foundation/WASP (Wallenberg, AI Autonomous Systems and software Programming), I have been involved in many practical/theoretical projects during my graduate studies. To name a few, distributed programming, bayesian learning, language models, supervided learning, and reinforcement learning. I practical experience with [Probabilistic Circuits](https://proceedings.mlr.press/v115/peharz20a/peharz20a.pdf) (PCs) as generative models, transforers, and CNNs. Comming from a signal processing background, my theoretical research interests involve compressed sensing, sampling, inverse problems, accelerated methods in optimization, and difference of convex programming. Currently, I am exploring a subclass of difference of convex optimization algorithms to find connections with constrained optimization algorithms.
 
 Latest News
 ======
+**[January, 2025]** I am delighted to inform that I was selected to serve as a reviewer in **ICML 2025**.
+
+------
+**[November, 2024]** My journey in **Pendulum Systems** was amazing. During my internship, I had the honor to receive supervision from Vahid Rostami. Together with Vahid, Alp Yurtsever, and Suvrit Sra, we successfully implemented an end-to-end optimization scheme for more efficient resource allocation. Several tests on real datasets suggested potential future for such optimization techniques. As my internship comes to an end, I'd like to thank **Pendulum Systems** for all the great experiences. I'll defintely miss working with such professional team and the great leader, Benjamin Fels.
+
+------
+**[October, 2024]** My course on *Transform Methods* (Digital Signal Processing) for this semester will begin on half-speed from **November,2024**.
+
+------
+**[September, 2024]** I am delighted to inform that I was selected to serve as a reviewer in **ICLR 2025**.
+
+------
+**[September, 2024]** I am delighted to inform that I was selected to serve as a reviewer in **AI-STATS 2025**.
+
+------
+**[June, 2024]** I joined **EURO** and **EUROPT 2024** in Lund. There I gave a talk on a new conditional gradient type method called *DC-Frank Wolfe*.
+
+------
 **[March, 2024]** I am thrilled to announce that I started an internship program as *Student Researcher* in the *R&D Laboratory* of **Pendulum Systems**.  
 
 ------
